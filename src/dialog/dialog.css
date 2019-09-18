@@ -1,0 +1,92 @@
+html,
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: SegoeUI, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+b {
+    font-weight: bold;
+}
+
+.ms-block{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.left-mobile{
+    text-align: left;
+    margin-top: -15px;
+    margin-left: 4px;
+}
+
+.left-owa{
+    text-align: left;
+    margin-top: -5px;
+    margin-left: 0px;
+}
+
+.bottom-right-owa{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.bottom-right-mobile{
+    position:absolute;
+    bottom:10px;
+    right:0;
+}
+
+.checkbox {
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #323130;
+}
+
+button {
+    margin-right: 12px;
+}
+
+#successfully-message {
+    font-family: SegoeUI, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+#confirm-message {
+    font-family: SegoeUI, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.dialog-logo {
+    width: 140px;
+    margin-top: -30px;
+    margin-bottom: 5px;
+}
