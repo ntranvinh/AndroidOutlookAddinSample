@@ -31,7 +31,7 @@
     "core-js": "^3.1.4",
     "es6-promise": "^4.2.6",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "office-ui-fabric-react": "^6.139.0",
     "prop-types": "latest",
     "react": "^16.8.2",
